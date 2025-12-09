@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "이승희",
-  title: "Senior Software Engineer",
+  title: "2022810055 HKNU student",
   description: "Portfolio website of 이승희",
   accentColor: "#1d4ed8",
   social: {
